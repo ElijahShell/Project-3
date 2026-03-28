@@ -1,0 +1,20 @@
+{
+  "name": "json-server",
+  "version": "0.17.4",
+  "description": "Node package.json file",
+  "homepage": "https://github.com/ElijahShell/Project-3#readme",
+  "bugs": {
+    "url": "https://github.com/ElijahShell/Project-3/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ElijahShell/Project-3.git"
+  },
+  "license": "ISC",
+  "author": "",
+   "type": "module",
+ "scripts": {
+    "start": "node server.js"
+  }
+
+}
