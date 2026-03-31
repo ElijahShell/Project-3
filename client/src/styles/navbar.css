@@ -9,6 +9,7 @@
     padding: 20px 60px;
     display: flex;
     align-items: center;
+    justify-content: space-between;
     background: rgb(0, 0, 0);
     backdrop-filter: blur(10px);
     z-index: 1000;
@@ -40,4 +41,10 @@
 .nav-links a:hover{
     color: #6e5a00;
     transition: color 0.3s ease;
+}
+
+.navbar p{
+    color: #6e5a00;
+    font-size: 24px;
+    margin: 10px;
 }
