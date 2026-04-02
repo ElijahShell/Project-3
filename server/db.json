@@ -1,0 +1,36 @@
+{
+  "tattoos": [
+    {
+      "id": 1,
+      "title": "Tattoo Artist",
+      "image": "./public/Tattoo_Artist.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Tattoo Cleaning",
+      "image": "./public/tattoo_Cleaning.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Tattoo Healing",
+      "image": "./public/Tattoo_Healing.jpg"
+    },
+    {
+      "id": 4,
+      "title": "tattoo-shop",
+      "image": "./public/tattoo-shop.webp"
+    }
+
+
+  ],
+  "bookings": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "date": "2026-04-10",
+      "style": "Traditional"
+    }
+
+  ]
+}

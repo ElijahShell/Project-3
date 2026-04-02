@@ -1,0 +1,41 @@
+.hero {
+    height: 100vh;
+    padding-top: 90px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url("/tattoo-shop.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.overlay{
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.4);
+}
+
+.hero-content{
+    position: relative;
+    padding-left: 60px;
+    max-width: 600px;
+    z-index: 1;
+}
+
+ h1{
+    font-size: 56px;
+    line-height: 1.1;
+    text-align: center;
+    margin-bottom: 80px;
+    color: rgb(255, 255, 255);
+}
+
+.hero p{
+    color: white;
+    font-size: 38px;
+    text-align: center;
+    line-height: 1.6;
+    margin-bottom: 30px;
+}

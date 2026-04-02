@@ -11,12 +11,6 @@ export default function Aftercare() {
           Follow these steps to ensure your tattoo heals properly and stays bold.
         </p>
 
-        <img
-          src="https://images.unsplash.com/photo-1547045662-8f3b0c7b3b0c"
-          alt="Tattoo care"
-          className="image"
-        />
-
         <section className="section">
           <h2>First 24 Hours</h2>
           <ul>
@@ -27,7 +21,7 @@ export default function Aftercare() {
         </section>
 
         <img
-          src="https://images.unsplash.com/photo-1598373182133-52452f7691ef"
+          src="./public/Tattoo_Cleaning.jpg"
           alt="Cleaning tattoo"
           className="image"
         />
@@ -42,7 +36,7 @@ export default function Aftercare() {
         </section>
 
         <img
-          src="https://images.unsplash.com/photo-1517841905240-472988babdf9"
+          src="./public/Tattoo_Healing.jpg"
           alt="Tattoo healing"
           className="image"
         />
